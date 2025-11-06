@@ -18,6 +18,7 @@ It covers:
 
 ---
 
+Note: For More In-depth learning, refer to: https://github.com/microsoft/generative-ai-for-beginners
 
 ---
 
